@@ -1,0 +1,10 @@
+﻿Mary 101 - pay for this period is $900.00
+Bob 109 - pay for this period is $1012.50
+Betty 117 - pay for this period is $545.00
+Bugs 125 - pay for this period is $600.00
+Minny 264 - pay for this period is $1012.50
+Elmer 266 - pay for this period is $896.00
+John 268 - pay for this period is $406.00
+Taylor 555 - pay for this period is $560.00
+Paul 565 - pay for this period is $585.00
+Maria 575 - pay for this period is $600.00
